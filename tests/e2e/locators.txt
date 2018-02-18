@@ -1,0 +1,12 @@
+firstname=firstname
+lastname=lastname
+email=customer.EMAIL
+mobile=mobile
+address=customer.ADDRESS1
+suburb=customer.SUBURBTOWN
+state=option[value='ACT']
+postcode=postcode
+dob=dob
+checkbox=checkbox-inline
+submit=subm
+confirmation msg=Thank you for entering the competition.
